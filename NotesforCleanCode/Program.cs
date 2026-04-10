@@ -29,3 +29,21 @@ public class Program
         double utahspecial6401policysalestax = 4.5;
 	}
 }
+
+public class CoolClass
+{
+    ////95% public 
+    /// 4.9% private 
+    /// 0.1% protected
+
+    // Extra bougie (private / field properties)
+    //field/properties
+    //constructors
+    //private methods
+    //methods
+
+    //ideally methods should be 1 job each
+    //if you have to explain what a chunk of code does
+    //make it a method and explain in the methood name
+
+}
